@@ -6,41 +6,33 @@
 ## 現在地
 マサラタウン → 1番道路へ出発
 
-## スクリーンショット
+## 攻略ログ
 
-### オープニング〜ゲーム開始
 ![オープニング - ニドリーノ対戦](../images/001_masara_town/001_opening_nidorino.JPG)
 ![タイトル画面](../images/001_masara_town/001_title_screen.JPG)
 ![オーキド博士の挨拶](../images/001_masara_town/001_oak_welcome.JPG)
 
-### プレイヤー・ライバル紹介
+- ゲーム開始！プレイヤー名「たかなみと」、ライバル名「シゲキ」でスタート
+
 ![プレイヤー名「たかなみと」](../images/001_masara_town/001_player_name.JPG)
 ![ライバル「シゲキ」](../images/001_masara_town/001_rival_shigeki.JPG)
 
-### マサラタウン〜御三家選択
+- オーキド研究所でゼニガメを選択（フシギダネ・ヒトカゲは見送り）
+
 ![自宅のテレビ - スタンド・バイ・ミー](../images/001_masara_town/001_home_tv.JPG)
 ![フシギダネを断る](../images/001_masara_town/001_decline_fushigidane.JPG)
 ![ヒトカゲを断る](../images/001_masara_town/001_decline_hitokage.JPG)
-
-### ゼニガメのステータス
 ![ゼニガメ Lv5 ステータス](../images/001_masara_town/001_zenigame_status.JPG)
 ![ゼニガメ 技構成](../images/001_masara_town/001_zenigame_moves.JPG)
 
-### ライバル戦
-![ライバル戦開始 - ゼニガメ vs フシギダネ](../images/001_masara_town/001_rival_battle_start.JPG)
-![ゼニガメ Lv6 にレベルアップ！](../images/001_masara_town/001_zenigame_levelup.JPG)
-
-### 1番道路〜セーブ
-![1番道路へ出発](../images/001_masara_town/001_route1_start.JPG)
-![セーブ画面 - プレイ時間 0:06](../images/001_masara_town/001_save_screen.JPG)
-
-## 攻略ログ
-
-- ゲーム開始！プレイヤー名「たかなみと」、ライバル名「シゲキ」でスタート
-- オーキド研究所でゼニガメを選択（フシギダネ・ヒトカゲは見送り）
 - ポケモンにニックネームはつけない方針
 - ライバル・シゲキとの初バトル（フシギダネ Lv5）にたいあたり連打で勝利
 - ゼニガメ Lv5 → Lv6 に成長
+
+![ライバル戦開始 - ゼニガメ vs フシギダネ](../images/001_masara_town/001_rival_battle_start.JPG)
+![ゼニガメ Lv6 にレベルアップ！](../images/001_masara_town/001_zenigame_levelup.JPG)
+![1番道路へ出発](../images/001_masara_town/001_route1_start.JPG)
+![セーブ画面 - プレイ時間 0:06](../images/001_masara_town/001_save_screen.JPG)
 
 ## 戦略メモ
 

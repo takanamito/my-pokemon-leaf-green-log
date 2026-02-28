@@ -6,49 +6,45 @@
 ## 現在地
 ニビシティ（ジム戦前）
 
-## スクリーンショット
+## 攻略ログ
 
-### トキワシティ〜おとどけものイベント
+- 1番道路を抜けてトキワシティに到着
+
 ![トキワシティでおじいさんに捕まる](../images/002_tokiwa_to_nibi/002_tokiwa_ojisan_stop.JPG)
 ![オーキド博士におとどけものを渡す](../images/002_tokiwa_to_nibi/002_otodokemono.JPG)
 ![ポケモンずかんをもらった！](../images/002_tokiwa_to_nibi/002_pokemon_zukan.JPG)
 ![おじいさんの捕獲デモ - ビードル](../images/002_tokiwa_to_nibi/002_capture_demo.JPG)
 ![おしえテレビを入手](../images/002_tokiwa_to_nibi/002_oshie_tv.JPG)
-
-### トキワシティ探索
 ![トキワジムのドアにはカギがかかっていた…！](../images/002_tokiwa_to_nibi/002_tokiwa_gym_locked.JPG)
 
-### トキワの森
+- トキワの森に突入。むしとりしょうねんたちとバトル
+
 ![トキワの森入口](../images/002_tokiwa_to_nibi/002_tokiwa_forest_entrance.JPG)
 ![トキワの森のおじさん「ポケモンもってるな？」](../images/002_tokiwa_to_nibi/002_tokiwa_forest_ojisan.JPG)
 ![むしとりしょうねんのシンイチが勝負をしかけてきた！](../images/002_tokiwa_to_nibi/002_mushitori_shinichi.JPG)
 
-### 全滅…！
+- ゼニガメがどく状態になり、どくけしを持っていなかったため力尽きる…
+
 ![たたかえるポケモンがもういない！](../images/002_tokiwa_to_nibi/002_zenmetu.jpeg)
 ![ポケモンセンターにもどるのであった！](../images/002_tokiwa_to_nibi/002_zenmetu_text.jpeg)
 
-### 再挑戦〜ピカチュウ捕獲
+- トキワシティに戻り、どくけし×3・キズぐすり×3を購入して再挑戦
+
 ![フレンドリィショップで買い出し](../images/002_tokiwa_to_nibi/002_friendly_shop.jpeg)
 ![トランセル Lv4 とバトル - ゼニガメ Lv11](../images/002_tokiwa_to_nibi/002_vs_transel.jpeg)
+
+- トキワの森でピカチュウ（Lv3）を捕獲！
+
 ![やったー！ピカチュウをつかまえたぞ！](../images/002_tokiwa_to_nibi/002_pikachu_get.jpeg)
 ![ピカチュウ図鑑 No.025](../images/002_tokiwa_to_nibi/002_pikachu_zukan.jpeg)
 
-### ニビシティ到着
-![ゼニガメ Lv12 にレベルアップ！](../images/002_tokiwa_to_nibi/002_zenigame_lv12.jpeg)
-![ニビシティ到着](../images/002_tokiwa_to_nibi/002_nibi_city.jpeg)
-![ポケモンセンター「プロフィールきかせて！」](../images/002_tokiwa_to_nibi/002_pokecen_profile.jpeg)
-![パーティ状況 - ゼニガメ Lv12 / ピカチュウ Lv3](../images/002_tokiwa_to_nibi/002_party_status.jpeg)
-
-## 攻略ログ
-
-- 1番道路を抜けてトキワシティに到着
-- トキワの森に突入。むしとりしょうねんたちとバトル
-- ゼニガメがどく状態になり、どくけしを持っていなかったため力尽きる…
-- トキワシティに戻り、どくけし×3・キズぐすり×3を購入して再挑戦
-- トキワの森でピカチュウ（Lv3）を捕獲！
 - ゼニガメがLv10でからにこもるを習得
 - 2番道路を抜けてニビシティに到着
 - ゼニガメ Lv12、ニビシティジムに挑戦するところ
+
+![ゼニガメ Lv12 にレベルアップ！](../images/002_tokiwa_to_nibi/002_zenigame_lv12.jpeg)
+![ニビシティ到着](../images/002_tokiwa_to_nibi/002_nibi_city.jpeg)
+![ポケモンセンター「プロフィールきかせて！」](../images/002_tokiwa_to_nibi/002_pokecen_profile.jpeg)
 
 ## 戦略メモ
 
@@ -73,6 +69,8 @@
 |---------|-----|--------|
 | ゼニガメ | 12 | たいあたり / あわ / しっぽをふる / からにこもる |
 | ピカチュウ | 3 | — （未確認） |
+
+![パーティ状況 - ゼニガメ Lv12 / ピカチュウ Lv3](../images/002_tokiwa_to_nibi/002_party_status.jpeg)
 
 ## 次の目標
 
