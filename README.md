@@ -1,11 +1,11 @@
-# Pokemon LeafGreen Speedrun Log
+# Pokemon LeafGreen Log
 
-takanamito と Claude Code による、ポケモンリーフグリーン最速殿堂入りチャレンジの攻略記録です。
+takanamito と Claude Code による、ポケモンリーフグリーン殿堂入りチャレンジの攻略記録です。
 
 ## 概要
 
 - **ゲーム**: ポケモンリーフグリーン（Nintendo Switch / 2026年2月27日発売）
-- **ゴール**: 最速で四天王を倒して殿堂入り
+- **ゴール**: 四天王を倒して殿堂入り
 - **プレイヤー**: takanamito（操作担当） & Claude Code（戦略担当）
 
 ## ルール
