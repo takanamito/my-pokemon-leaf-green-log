@@ -9,30 +9,30 @@
 ## スクリーンショット
 
 ### オープニング〜ゲーム開始
-![オープニング - ニドリーノ対戦](../images/001_opening_nidorino.JPG)
-![タイトル画面](../images/001_title_screen.JPG)
-![オーキド博士の挨拶](../images/001_oak_welcome.JPG)
+![オープニング - ニドリーノ対戦](../images/001_masara_town/001_opening_nidorino.JPG)
+![タイトル画面](../images/001_masara_town/001_title_screen.JPG)
+![オーキド博士の挨拶](../images/001_masara_town/001_oak_welcome.JPG)
 
 ### プレイヤー・ライバル紹介
-![プレイヤー名「たかなみと」](../images/001_player_name.JPG)
-![ライバル「シゲキ」](../images/001_rival_shigeki.JPG)
+![プレイヤー名「たかなみと」](../images/001_masara_town/001_player_name.JPG)
+![ライバル「シゲキ」](../images/001_masara_town/001_rival_shigeki.JPG)
 
 ### マサラタウン〜御三家選択
-![自宅のテレビ - スタンド・バイ・ミー](../images/001_home_tv.JPG)
-![フシギダネを断る](../images/001_decline_fushigidane.JPG)
-![ヒトカゲを断る](../images/001_decline_hitokage.JPG)
+![自宅のテレビ - スタンド・バイ・ミー](../images/001_masara_town/001_home_tv.JPG)
+![フシギダネを断る](../images/001_masara_town/001_decline_fushigidane.JPG)
+![ヒトカゲを断る](../images/001_masara_town/001_decline_hitokage.JPG)
 
 ### ゼニガメのステータス
-![ゼニガメ Lv5 ステータス](../images/001_zenigame_status.JPG)
-![ゼニガメ 技構成](../images/001_zenigame_moves.JPG)
+![ゼニガメ Lv5 ステータス](../images/001_masara_town/001_zenigame_status.JPG)
+![ゼニガメ 技構成](../images/001_masara_town/001_zenigame_moves.JPG)
 
 ### ライバル戦
-![ライバル戦開始 - ゼニガメ vs フシギダネ](../images/001_rival_battle_start.JPG)
-![ゼニガメ Lv6 にレベルアップ！](../images/001_zenigame_levelup.JPG)
+![ライバル戦開始 - ゼニガメ vs フシギダネ](../images/001_masara_town/001_rival_battle_start.JPG)
+![ゼニガメ Lv6 にレベルアップ！](../images/001_masara_town/001_zenigame_levelup.JPG)
 
 ### 1番道路〜セーブ
-![1番道路へ出発](../images/001_route1_start.JPG)
-![セーブ画面 - プレイ時間 0:06](../images/001_save_screen.JPG)
+![1番道路へ出発](../images/001_masara_town/001_route1_start.JPG)
+![セーブ画面 - プレイ時間 0:06](../images/001_masara_town/001_save_screen.JPG)
 
 ## 攻略ログ
 
