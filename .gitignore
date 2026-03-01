@@ -1,0 +1,10 @@
+# Claude Code
+.claude/settings.local.json
+.claude/tasks/
+.claude/worktrees/
+
+# OS
+.DS_Store
+
+# Output
+output/
