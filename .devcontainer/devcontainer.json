@@ -1,6 +1,7 @@
 {
   "name": "Pokemon LeafGreen Log",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "curl -fsSL https://claude.ai/install.sh | bash",
   "customizations": {
     "vscode": {
       "extensions": [
