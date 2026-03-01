@@ -1,6 +1,6 @@
 ---
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash(mkdir:*), Bash(mv:*), Bash(ls:*), Agent
-description: 攻略レポートを作成する。takanamito が「レポート」と言ったら使う。
+allowed-tools: "Read, Write, Edit, Glob, Grep, Bash(mkdir:*), Bash(mv:*), Bash(ls:*), Agent"
+description: "攻略レポートを作成する。takanamito が「レポート」と言ったら使う。"
 ---
 
 ## レポート作成スキル
