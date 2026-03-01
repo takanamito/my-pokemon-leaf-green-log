@@ -1,0 +1,13 @@
+{
+  "name": "Pokemon LeafGreen Log",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "DavidAnson.vscode-markdownlint"
+      ]
+    }
+  }
+}
