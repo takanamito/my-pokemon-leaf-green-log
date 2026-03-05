@@ -54,6 +54,8 @@
 ![3ばんどうろ](../images/003_nibi_gym_to_route3/003_route3.jpeg)
 ![3番道路のトレーナーたち](../images/003_nibi_gym_to_route3/003_route3_trainers.jpeg)
 
+### カメール進化
+
 - 3番道路のトレーナー戦でゼニガメがLv16に到達し、ついにカメールに進化！
 
 ![ゼニガメはレベル16にあがった！](../images/003_nibi_gym_to_route3/003_zenigame_lv16.jpeg)
