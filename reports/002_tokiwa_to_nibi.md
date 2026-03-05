@@ -35,6 +35,8 @@
 ![フレンドリィショップで買い出し](../images/002_tokiwa_to_nibi/002_friendly_shop.jpeg)
 ![トランセル Lv4 とバトル - ゼニガメ Lv11](../images/002_tokiwa_to_nibi/002_vs_transel.jpeg)
 
+### ピカチュウ捕獲
+
 - トキワの森でピカチュウ（Lv3）を捕獲！
 
 ![やったー！ピカチュウをつかまえたぞ！](../images/002_tokiwa_to_nibi/002_pikachu_get.jpeg)
