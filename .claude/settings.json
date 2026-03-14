@@ -10,5 +10,9 @@
         ]
       }
     ]
+  },
+  "enabledPlugins": {
+    "example-skills@anthropic-agent-skills": true,
+    "document-skills@anthropic-agent-skills": true
   }
 }
