@@ -2,6 +2,7 @@
 .claude/settings.local.json
 .claude/tasks/
 .claude/worktrees/
+.claude/projects/
 
 # OS
 .DS_Store
