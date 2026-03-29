@@ -8,6 +8,37 @@
             "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh"
           }
         ]
+      },
+      {
+        "matcher": "compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/post-compact.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/lint-markdown.sh"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "あなたの直前の応答を確認してください。バトル（トレーナー戦・野生戦）が終了した内容を含む場合、「【次のバトル準備】」フォーマット（回復・次の先頭・理由・相手の想定・作戦）が出力されているか確認してください。バトル終了を含まない応答の場合は ok: true を返してください。バトル終了を含むのにフォーマットが欠けている場合は ok: false, reason: '【次のバトル準備】フォーマットを出力してください' を返してください。",
+            "model": "haiku"
+          }
+        ]
       }
     ],
     "PreToolUse": [
@@ -21,6 +52,10 @@
         ]
       }
     ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/statusline.sh"
   },
   "enabledPlugins": {
     "example-skills@anthropic-agent-skills": true,
