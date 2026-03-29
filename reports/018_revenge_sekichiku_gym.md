@@ -62,7 +62,13 @@
 ![エビワラーのほのおのパンチ](../images/018_revenge_sekichiku_gym/018_11_ebiwalar_fire_punch.jpeg)
 ![エビワラーのスカイアッパー](../images/018_revenge_sekichiku_gym/018_12_ebiwalar_sky_uppercut.jpeg)
 
-- カラテ大王を倒して**サワムラー**をもらった。かくとうタイプはオコリザルとかぶるが、図鑑埋めにもなる
+- カラテ大王を倒すと、エビワラーかサワムラーのどちらかをもらえる。「よくばるのは よそう…」と言われて1匹だけ
+
+![エビワラーにするか？](../images/018_revenge_sekichiku_gym/018_14_ebiwalar_choice.jpeg)
+![サワムラーにするか？](../images/018_revenge_sekichiku_gym/018_15_sawamular_choice.jpeg)
+![よくばるのはよそう](../images/018_revenge_sekichiku_gym/018_16_only_one_pokemon.jpeg)
+
+- **サワムラー**をもらった。かくとうタイプはオコリザルとかぶるが、図鑑埋めにもなる
 
 ![カラテ大王からかくとうポケモンをもらう](../images/018_revenge_sekichiku_gym/018_05_karate_daiou_asking_for_item.jpeg)
 ![サワムラー入手](../images/018_revenge_sekichiku_gym/018_13_karate_daiou_reward_pokemon.jpeg)
@@ -77,7 +83,21 @@
 2. レベル帯が近い
 3. 次の目的地へのルート上
 
+![ナッシー vs カイリキー（サイクリングロード）](../images/018_revenge_sekichiku_gym/018_17_nassy_vs_kairiki_cycling.jpeg)
+![ナッシーのサイコキネシス vs マタドガス](../images/018_revenge_sekichiku_gym/018_18_nassy_psychic_vs_matadogas.jpeg)
+
 - 道中でトレーナーのベトベトン（Lv33）と遭遇。takanamito が「**トレーナーがベトベトン出してきた。いい仮想キョウ**」と本番を意識。サイコキネシスで2/3程度のダメージが入ることを確認できた。キョウのベトベトンはLv39でもう少し硬いが、2発で倒せる圏内だ
+
+![ナッシー vs ベトベトン（仮想キョウ）](../images/018_revenge_sekichiku_gym/018_19_nassy_vs_betbeton_lv33.jpeg)
+
+- ブースターもサイクリングロードで活躍。かえんほうしゃでカイリキーを焼いた
+
+![ブースターのかえんほうしゃ vs カイリキー](../images/018_revenge_sekichiku_gym/018_20_booster_vs_kairiki.jpeg)
+
+- サイクリングロードの看板に「**ゲームを なげるな！モンスターボールを なげろ！**」の名言が
+
+![ゲームをなげるな！](../images/018_revenge_sekichiku_gym/018_21_signboard_throw_ball.jpeg)
+![サイクリングロード終点](../images/018_revenge_sekichiku_gym/018_22_cycling_road_end.jpeg)
 
 ### タマゴばくだん習得〜しびれごな誤消去
 
@@ -89,17 +109,37 @@
 
 - セキチクジムの隣で**マサキのじいちゃん**と**わすれおやじ**を発見。わすれおやじはひでん技を忘れさせたいときに便利だ
 
+![マサキのじいちゃん](../images/018_revenge_sekichiku_gym/018_23_masaki_grandpa.jpeg)
+![わすれおやじ](../images/018_revenge_sekichiku_gym/018_24_wasure_oyaji.jpeg)
+
 - **先頭はナッシー。** 前回の全滅からの作戦変更は「ベトベトンが積む前にサイコキネシスで速攻撃破」。これが全て
 
 - **ドガース（Lv37）**: サイコキネシスで一撃。前回と同じく序盤は順調
 
-- **ベトベトン（Lv39）**: 前回はちいさくなる+とける+すごいきずぐすりの三重苦に全滅させられた因縁の相手。今回はナッシーのサイコキネシス（エスパー→どく ばつぐん）で速攻。**積む暇を与えずに押し切った。** サイクリングロードでの仮想キョウ戦が効いた
+- **ベトベトン（Lv39）**: 前回はちいさくなる+とける+すごいきずぐすりの三重苦に全滅させられた因縁の相手。今回はナッシーのサイコキネシス（エスパー→どく ばつぐん）で速攻。ちいさくなるを1回使われたが、サイコキネシスの連打で押し切った
+
+![ナッシーのサイコキネシス vs キョウのベトベトン](../images/018_revenge_sekichiku_gym/018_25_kyo_betbeton_psychic.jpeg)
+![ベトベトンがちいさくなるを使った](../images/018_revenge_sekichiku_gym/018_26_betbeton_chisakunaru.jpeg)
+![ベトベトン撃破！](../images/018_revenge_sekichiku_gym/018_27_betbeton_defeated.jpeg)
 
 - **ドガース（Lv37）**: こちらもサイコキネシスで処理
 
-- **マタドガス（Lv43）**: ラスボス。Lv43は今回のパーティで最高レベルのカメックスと同格。ナッシーのHPが削られていたのでカメックスに交代。マタドガスがすごいきずぐすりを2連発してきてうざかったが、カメックスのなみのりで粘り強く押し切って撃破
+![ドガース撃破](../images/018_revenge_sekichiku_gym/018_28_dogars_defeated.jpeg)
+
+- **マタドガス（Lv43）**: ラスボス。Lv43は今回のパーティで最高レベルのカメックスと同格。ナッシーのHPが**6/99**まで削られていたのでカメックスに交代
+
+![ナッシーHP6/99 — 限界での交代](../images/018_revenge_sekichiku_gym/018_29_nassy_hp6_vs_matadogas.jpeg)
+![カメックスのなみのり vs マタドガス](../images/018_revenge_sekichiku_gym/018_30_kamex_naminori_vs_matadogas.jpeg)
+
+- マタドガスがすごいきずぐすりを2連発してきてうざかったが、カメックスのなみのりで粘り強く押し切って撃破。カメックスもどく状態になっていたが耐えきった
+
+![キョウのすごいキズぐすり（カメックスどく状態）](../images/018_revenge_sekichiku_gym/018_31_kyo_sugoikizugusuri.jpeg)
+![キョウ撃破「ふん…！おぬし やりおるな！」](../images/018_revenge_sekichiku_gym/018_32_kyo_defeated.jpeg)
 
 - **ピンクバッジ獲得！**（5個目）。わざマシン06（どくどく）も入手。前回の全滅が嘘のような完勝だった。ナッシーにサイコキネシスを覚えさせたのが全てを変えた
+
+![キョウのジム — 400年の伝統](../images/018_revenge_sekichiku_gym/018_33_kyo_gym_tradition.jpeg)
+![TM06 どくどく入手](../images/018_revenge_sekichiku_gym/018_34_tm06_dokudoku.jpeg)
 
 ## パーティ編成
 
