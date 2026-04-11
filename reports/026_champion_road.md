@@ -13,30 +13,67 @@
 ### トキワシティ発 — ライバル戦の甘い見立て
 
 - トキワジムを攻略した後、まずはトキワシティで準備。回復は済ませたものの、まんたんのくすりやげんきのかたまりといった四天王戦用アイテムの買い出しは後回しにして、takanamito は「先にチャンピオンロード行く」と前のめり
+- ポケモンセンターで休んだ際に、おじさんが「**へんなゆめをみた スリープがゆめをくっていた！**」と不思議な台詞。リーフグリーンのちょっとした小ネタ
+
+![スリープの夢食いセリフ](../images/026_champion_road/026_01_rival_encounter_sleeper_dream.jpeg)
+
 - Claude はレベル上げ方針として、一番低いナッシー（Lv37）を先頭にしてXP稼ぎを提案。じんすけはレベル上げ対象外、がくしゅうそうちはゲンガーへ
-- 22番道路に入るや否や、**ライバル・シゲキ**が立ちはだかる。初手ピジョット。ナッシー（くさ/エスパー）にとんでもなく不利な相性で、takanamito が「**だからさっき先頭聞いたのにさ**」と苦言。ライバル戦の気配を読めずナッシー先頭にした Claude の完敗
+- 22番道路に入ると、いきなり**ライバル・シゲキ**が立ちはだかる。「**なんだ？ たかなみと！ こんなところであうとは**」
+
+![22番道路到着](../images/026_champion_road/026_02_route22_arrival.jpeg)
+
+![シゲキと遭遇](../images/026_champion_road/026_03_rival_shigeki_encounter_route22.jpeg)
+
+![ライバル戦開始](../images/026_champion_road/026_04_rival_battle_start.jpeg)
+
+- 初手ピジョット。ナッシー（くさ/エスパー）にとんでもなく不利な相性で、takanamito が「**だからさっき先頭聞いたのにさ**」と苦言。ライバル戦の気配を読めずナッシー先頭にした Claude のミス
 - 慌ててニドキングに交代 → 10まんボルトでピジョットを一撃。なんとか立て直す
+
+![ニドキング vs ピジョット](../images/026_champion_road/026_05_nidoking_thunderbolt_vs_pidgeot.jpeg)
 
 ### シゲキ戦 — かなしばりとみちづれ習得の劇的展開
 
 - 2匹目はフーディン。Claude は「カメックスに交代してかみつく（あく技）」を指示。ニドキングはエスパー2倍弱点、フーディンは素早さが高いので危険と判断
 - takanamito が「**このままメガホーンは？**」と食い下がる。メガホーン自体は抜群だが先制されて耐えられない可能性が高いので、Claude は安全策のカメックス交代を推奨
 - カメックス → かみつく、と思いきや**かなしばりでかみつく封印**。厄介な展開。なみのりに切り替えてごり押し
+
+![カメックスのかみつく vs フーディン](../images/026_champion_road/026_06_blastoise_bite_vs_alakazam.jpeg)
+
 - フーディンを下げてフシギバナ登場。カメックスは草4倍弱点なので**カビゴンに交代**。おんがえしで凌ごうとしたが相性が悪く**カビゴン瀕死**。それでもフシギバナをHP1mmまで追い詰めて、**ニドキング → じしん**でギリギリ仕留めた
+
+![カビゴン vs フシギバナのはっぱカッター](../images/026_champion_road/026_07_venusaur_razorleaf_vs_snorlax.jpeg)
+
+![ニドキングのじしん vs フシギバナ](../images/026_champion_road/026_08_nidoking_earthquake_vs_venusaur.jpeg)
+
 - 再びフーディンが出てきたので、一度下げたカメックスで（かなしばり解除済みの）**かみつく**を決めて撃破。続くガーディはカメックスのなみのりで一撃（ほのお弱点）、サイホーンも**水4倍弱点**でなみのり一撃
+
+![瀕死寸前カメックスのなみのり vs ガーディ](../images/026_champion_road/026_09_blastoise_surf_vs_gyarados.jpeg)
+
 - ここで**ゲンガーがLv39でみちづれ**を習得。四天王の詰み回避用に取っておきたい切り札として、ナイトヘッドと置き換えて採用
 - ラストはギャラドス。**ゲンガーに交代 → 10まんボルト**で水/飛行4倍弱点を突いてフィニッシュ。ライバル戦勝利
 
-![ニドキング vs ポニータ](../images/026_champion_road/026_02_nidoking_earthquake_vs_ponyta.jpeg)
+![ゲンガーの10まんボルト vs ギャラドス](../images/026_champion_road/026_10_gengar_thunderbolt_vs_gyarados.jpeg)
 
-- 22番道路を進む途中で野生のオニドリルを発見し捕獲。ハイパーボールで無事ゲット
+![シゲキ敗北セリフ](../images/026_champion_road/026_11_rival_shigeki_defeat_quote.jpeg)
+
+- 22番道路を進む途中で野生のオニドリルを発見し捕獲。ハイパーボールで無事ゲット。ポケモン図鑑に No.022 オニドリルが追加された
+
+![オニドリル図鑑](../images/026_champion_road/026_12_pokedex_fearow.jpeg)
+
+![かいふくのくすり入手](../images/026_champion_road/026_13_found_fullrestore.jpeg)
+
+- トキワシティに戻る道中、トキワジム前を通ると**グリーンバッジ**にまつわる石像のNPCが話しかけてきた
+
+![グリーンバッジNPC](../images/026_champion_road/026_14_viridian_gym_green_badge_npc.jpeg)
+
+![グリーンバッジNPC続き](../images/026_champion_road/026_15_viridian_gym_green_badge_npc2.jpeg)
 
 ### チャンピオンロード突入 — prepスキルの反省
 
 - takanamito が「チャンピオンロード突入」と宣言。Claude は急いで prep スキルを実行して「まんたんのくすり、どくけし、あなぬけのヒモを買いに戻るべき」と進言
 - takanamito 「**四天王じゃなくてチャンピオンロードなんやけど**」。Claude が四天王戦と勘違いして過剰な準備を要求していた。「ポケモンリーグ直前の岩山みたいなダンジョン」という本人の説明でようやく認識が合った。結局ハイパーボール×8とすごいキズぐすり×2を買って突入
 
-![チャンピオンロード入口](../images/026_champion_road/026_01_champion_road_entrance.jpeg)
+![チャンピオンロード入口](../images/026_champion_road/026_16_champion_road_entrance.jpeg)
 
 ### 炎トレーナー無双
 
@@ -44,9 +81,11 @@
 - ペルシアン（Lv42）はニドキングで処理。続いて**ポニータ**、**ロコン**、**ギャロップ**、**キュウコン**と炎ばっかり。takanamito 「**こいつほのおだらけ**」とツッコむ始末
 - ポニータはニドキングのじしん、そこから先は takanamito が「**まんべんなくレベル上げたいから**」とカメックスに切り替えてなみのりで薙ぎ払った
 
-![カメックス vs ギャロップ](../images/026_champion_road/026_03_kamex_surf_vs_gyarop.jpeg)
+![ニドキング vs ポニータ](../images/026_champion_road/026_17_nidoking_earthquake_vs_ponyta.jpeg)
 
-![カメックス vs リザード](../images/026_champion_road/026_06_kamex_surf_vs_lizard.jpeg)
+![カメックス vs ギャロップ](../images/026_champion_road/026_18_kamex_surf_vs_gyarop.jpeg)
+
+![カメックス vs リザード](../images/026_champion_road/026_21_kamex_surf_vs_lizard.jpeg)
 
 ### 落ちているアイテム — いらないTMの連発
 
@@ -55,21 +94,21 @@
 - **わざマシン37 すなあらし**、**わざマシン07 あられ**も順に発見。どちらもパーティに岩/地面/鋼/氷タイプがいないため出番なし。連続で「使いどころがない」と判断するTMが続いた
 - **わざマシン50 オーバーヒート**も発見。takanamito「**stabって？**」と聞かれて Claude が「Same Type Attack Bonus」と英語で答え、takanamito 「**日本語で言ってね**」と即座に直される。以後、「タイプ一致ボーナス」で統一
 
-![ふしぎなアメ発見](../images/026_champion_road/026_04_found_fushigi_ame.jpeg)
+![ふしぎなアメ発見](../images/026_champion_road/026_19_found_fushigi_ame.jpeg)
 
-![わざマシン02 ドラゴンクロー](../images/026_champion_road/026_05_found_tm02_dragon_claw.jpeg)
+![わざマシン02 ドラゴンクロー](../images/026_champion_road/026_20_found_tm02_dragon_claw.jpeg)
 
-![わざマシン37 すなあらし](../images/026_champion_road/026_11_found_tm37_sandstorm.jpeg)
+![わざマシン37 すなあらし](../images/026_champion_road/026_26_found_tm37_sandstorm.jpeg)
 
-![なんでもなおし入手](../images/026_champion_road/026_13_found_full_restore.jpeg)
+![なんでもなおし入手](../images/026_champion_road/026_28_found_full_restore.jpeg)
 
-![わざマシン07 あられ](../images/026_champion_road/026_16_found_tm07_hail.jpeg)
+![わざマシン07 あられ](../images/026_champion_road/026_31_found_tm07_hail.jpeg)
 
-![げんきのかたまり入手](../images/026_champion_road/026_22_got_max_revive.jpeg)
+![げんきのかたまり入手](../images/026_champion_road/026_37_got_max_revive.jpeg)
 
-![わざマシン50 オーバーヒート](../images/026_champion_road/026_23_found_tm50_overheat.jpeg)
+![わざマシン50 オーバーヒート](../images/026_champion_road/026_38_found_tm50_overheat.jpeg)
 
-![エフェクトガード入手](../images/026_champion_road/026_25_found_scope_lens.jpeg)
+![エフェクトガード入手](../images/026_champion_road/026_40_found_scope_lens.jpeg)
 
 ### フシギソウ → リザードン — 読みが冴えた瞬間
 
@@ -77,17 +116,17 @@
 - 続けて**リザードン登場**。takanamito 「**リザードン来ちゃった…**」。ゲンガーのまま10まんボルトで2倍抜群を狙う Claude に対し、takanamito 「**カメックスだろ**」とより確実な選択肢を指摘
 - ハイドロカノンが気持ちよく決まり、リザードンを粉砕。「ハイドロカノン」の威力と爽快感が Claude との協力でうまくハマった場面
 
-![ゲンガーがフシギソウをこんらん](../images/026_champion_road/026_07_gengar_confuse_vs_fushigisou.jpeg)
+![ゲンガーがフシギソウをこんらん](../images/026_champion_road/026_22_gengar_confuse_vs_fushigisou.jpeg)
 
-![エリートトレーナー・アサオのリザードン](../images/026_champion_road/026_08_elite_asao_charizard_appears.jpeg)
+![エリートトレーナー・アサオのリザードン](../images/026_champion_road/026_23_elite_asao_charizard_appears.jpeg)
 
-![カメックスのハイドロカノン](../images/026_champion_road/026_09_kamex_hydro_cannon_vs_charizard.jpeg)
+![カメックスのハイドロカノン](../images/026_champion_road/026_24_kamex_hydro_cannon_vs_charizard.jpeg)
 
 ### 名言「トレーナーの最後の試練」
 
 - 道中、**カラテおうのタダシ**が「**チャンピオンロードはトレーナーの最後の試練らしいよ**」と教えてくれる。ここを抜ければポケモンリーグという、エリア全体の締めにふさわしいフレーバーで、takanamito もこの台詞が気に入った様子
 
-![最後の試練！](../images/026_champion_road/026_10_trainer_final_challenge.jpeg)
+![最後の試練！](../images/026_champion_road/026_25_trainer_final_challenge.jpeg)
 
 ### 水トレーナー戦
 
@@ -105,34 +144,34 @@
 - ラストは**ラッキー**。耐久オバケで一撃では落ちず、takanamito 「**ラッキー固すぎ**」と苦戦するも**かわらわりで無理やり一撃**。なんとか勝利
 - 勝利と同時に**ゲンガーがLv45でシャドーボール**を習得。Gen3仕様でゴースト技はすべて特殊扱い、威力60のシャドーパンチに対して威力80＋特防ダウン追加効果付きで上位互換。シャドーパンチと差し替えてゲンガーの主力が強化された
 
-![ゲンガー → ジュゴンに10まんボルト](../images/026_champion_road/026_26_gengar_thunderbolt_vs_dewgong.jpeg)
+![ゲンガー → ジュゴンに10まんボルト](../images/026_champion_road/026_41_gengar_thunderbolt_vs_dewgong.jpeg)
 
-![ジュゴンのオーロラビーム](../images/026_champion_road/026_27_dewgong_aurora_beam.jpeg)
+![ジュゴンのオーロラビーム](../images/026_champion_road/026_42_dewgong_aurora_beam.jpeg)
 
-![ニドキング vs プリン](../images/026_champion_road/026_28_nidoking_substitute_vs_jigglypuff.jpeg)
+![ニドキング vs プリン](../images/026_champion_road/026_43_nidoking_substitute_vs_jigglypuff.jpeg)
 
-![ニドキングがラッキーに抜群](../images/026_champion_road/026_29_nidoking_supereffective_vs_chansey.jpeg)
+![ニドキングがラッキーに抜群](../images/026_champion_road/026_44_nidoking_supereffective_vs_chansey.jpeg)
 
-![ナッシー vs ゴルダック](../images/026_champion_road/026_14_nassie_vs_golduck_scratch.jpeg)
+![ナッシー vs ゴルダック](../images/026_champion_road/026_29_nassie_vs_golduck_scratch.jpeg)
 
-![ゲンガー vs ラプラス](../images/026_champion_road/026_24_gengar_vs_lapras_confuse_ray.jpeg)
+![ゲンガー vs ラプラス](../images/026_champion_road/026_39_gengar_vs_lapras_confuse_ray.jpeg)
 
 ### 水・エスパー・電気のエリートトレーナー戦
 
 - エリートトレーナー連戦。1人目は「連続で2人」と takanamito が警戒した水パーティのトレーナー。キングラー → ニョロゾ → ドククラゲ → シードラ → **カメックス**まで全員みずタイプで、**ニドキングの10まんボルトを全員に通して完封**
 - 道中の単発戦で、スリーパーには**ニドキングのメガホーン**、バリヤードにもメガホーン、ナッシー（相手）にもメガホーンとむし技が刺さりまくる。パルシェンには電気2倍抜群の10まんボルト、サンドパンは水4倍でカメックスのなみのり、マルマインは地面免疫を活かしたニドキングのじしん
 
-![ニドキング vs スリーパー](../images/026_champion_road/026_12_nidoking_megahorn_vs_sleeper.jpeg)
+![ニドキング vs スリーパー](../images/026_champion_road/026_27_nidoking_megahorn_vs_sleeper.jpeg)
 
-![ニドキング vs バリヤード](../images/026_champion_road/026_15_nidoking_megahorn_vs_barrierd.jpeg)
+![ニドキング vs バリヤード](../images/026_champion_road/026_30_nidoking_megahorn_vs_barrierd.jpeg)
 
-![ニドキング vs ナッシー](../images/026_champion_road/026_17_nidoking_megahorn_vs_nassie.jpeg)
+![ニドキング vs ナッシー](../images/026_champion_road/026_32_nidoking_megahorn_vs_nassie.jpeg)
 
-![ニドキング vs パルシェン](../images/026_champion_road/026_18_nidoking_thunder_vs_parshen.jpeg)
+![ニドキング vs パルシェン](../images/026_champion_road/026_33_nidoking_thunder_vs_parshen.jpeg)
 
-![カメックス vs サンドパン](../images/026_champion_road/026_19_kamex_surf_vs_sandpan.jpeg)
+![カメックス vs サンドパン](../images/026_champion_road/026_34_kamex_surf_vs_sandpan.jpeg)
 
-![ニドキング vs マルマイン](../images/026_champion_road/026_20_nidoking_vs_marumine_super_effective.jpeg)
+![ニドキング vs マルマイン](../images/026_champion_road/026_35_nidoking_vs_marumine_super_effective.jpeg)
 
 ### ウインディ自爆 — 草トレーナーの耐久戦
 
@@ -142,13 +181,11 @@
 - 続いてカメックスに交代するも、草パーティ相手に不利。**ゲンガーに交代したところでねむりごな**をくらい寝落ち。takanamito「**ゲンガーなのにねむりごなでねむりよった**」と半笑い
 - 最後に**カビゴン**でおんがえし連打、さらに**キノコのほうし**で眠らされる始末。Claude は「**チャンス、ねごとで反撃**」と指示。カビゴンのねごとがドンピシャで**「おんがえし」を引き当て**て押し切って勝利
 
-![ニドキング vs ウインディ](../images/026_champion_road/026_21_nidoking_vs_arcanine_recoil.jpeg)
+![ニドキング vs ウインディ](../images/026_champion_road/026_36_nidoking_vs_arcanine_recoil.jpeg)
 
-![ニドキング vs プリン](../images/026_champion_road/026_28_nidoking_substitute_vs_jigglypuff.jpeg)
+![エリートトレーナー遭遇](../images/026_champion_road/026_45_trainer_encounter_champion_road.jpeg)
 
-![ニドキングがラッキーに抜群](../images/026_champion_road/026_29_nidoking_supereffective_vs_chansey.jpeg)
-
-![エリートトレーナー遭遇](../images/026_champion_road/026_30_trainer_encounter_champion_road.jpeg)
+![ニドキング vs ウツボット](../images/026_champion_road/026_47_nidoking_vs_weepinbell.jpeg)
 
 ### ダブルバトル — じしんで自爆寸前
 
@@ -159,37 +196,35 @@
 - 仕方なく**ニドキングはじしん**を選択。じしんは全体攻撃なので**味方のカメックスにも直撃**。takanamito 「**じしんでカメックス死にかけた**」と悲鳴
 - 運よく相手のニドキングが**カメックスのふぶきでこおり状態**になって動けず、助かった。なんとか勝利したが、ダブルバトルの全体攻撃周りで Claude がダメージ計算を詰めきれずヒヤヒヤさせた場面
 
-![エリートトレーナー・シュウのカメックス](../images/026_champion_road/026_31_elite_trainer_shu_blastoise.jpeg)
+![エリートトレーナー・シュウのカメックス](../images/026_champion_road/026_46_elite_trainer_shu_blastoise.jpeg)
 
-![ニドキング vs ウツボット](../images/026_champion_road/026_32_nidoking_vs_weepinbell.jpeg)
+![ダブルバトル遭遇](../images/026_champion_road/026_48_champion_road_double_trainer.jpeg)
 
-![ダブルバトル遭遇](../images/026_champion_road/026_33_champion_road_double_trainer.jpeg)
+![エリートカップルのダブルバトル](../images/026_champion_road/026_49_elite_couple_double_battle.jpeg)
 
-![エリートカップルのダブルバトル](../images/026_champion_road/026_34_elite_couple_double_battle.jpeg)
+![ふぶきがニドキングに命中](../images/026_champion_road/026_50_blizzard_hits_nidoking.jpeg)
 
-![ふぶきがニドキングに命中](../images/026_champion_road/026_35_blizzard_hits_nidoking.jpeg)
+![ニドキング凍る](../images/026_champion_road/026_51_nidoking_frozen.jpeg)
 
-![ニドキング凍る](../images/026_champion_road/026_36_nidoking_frozen.jpeg)
-
-![ニドキングのじしん](../images/026_champion_road/026_37_nidoking_earthquake.jpeg)
+![ニドキングのじしん](../images/026_champion_road/026_52_nidoking_earthquake.jpeg)
 
 ### 出口 — すてみタックル教え人は見送り
 
 - 出口手前に**すてみタックル**を教えてくれるおじさん発見。Claude はカビゴンを候補として考えたが、ねむる＋ねごと戦略と1/3反動が噛み合わず、おんがえし（反動なし・友好度最大で威力102）で十分と判断してスルー
 - チャンピオンロード突破。23番どうろへ抜ける
 
-![チャンピオンロード突破](../images/026_champion_road/026_38_cleared_champion_road.jpeg)
+![チャンピオンロード突破](../images/026_champion_road/026_53_cleared_champion_road.jpeg)
 
-![23番どうろ](../images/026_champion_road/026_39_route23.jpeg)
+![23番どうろ](../images/026_champion_road/026_54_route23.jpeg)
 
 ### セキエイこうげん到着
 
 - 23番どうろを進んで**セキエイこうげん**に到着。いよいよポケモンリーグ入口。ラムのみを拾いつつポケモンセンターで全回復
 - ここからは四天王戦の準備フェーズ。ナッシー・ゲンガーのレベル上げと、後回しにしていたまんたんのくすり・げんきのかたまりの買い出しが残っている
 
-![ラムのみ入手](../images/026_champion_road/026_40_found_lum_berry.jpeg)
+![ラムのみ入手](../images/026_champion_road/026_55_found_lum_berry.jpeg)
 
-![セキエイこうげん入口](../images/026_champion_road/026_41_sekiei_plateau_entrance.jpeg)
+![セキエイこうげん入口](../images/026_champion_road/026_56_sekiei_plateau_entrance.jpeg)
 
 ## パーティ編成
 
@@ -202,7 +237,7 @@
 | ナッシー♀             | 40  | くさ/エスパー   | リフレクター / ギガドレイン / サイコキネシス / タマゴばくだん | おまもりこばん   |
 | カモネギ♂（じんすけ） | 22  | ノーマル/ひこう | いあいぎり / そらをとぶ                                       | -                |
 
-![パーティ最終状態](../images/026_champion_road/026_42_party_status_final.jpeg)
+![パーティ最終状態](../images/026_champion_road/026_57_party_status_final.jpeg)
 
 ## 入手アイテム
 
