@@ -29,9 +29,17 @@
 
 - 移動途中、チャンピオンロードで野生のガラガラに遭遇。ボックスにいるカラカラの進化系で、図鑑埋めとして捕獲成功
 
+![ガラガラ捕獲](../images/027_mt_ember/027_01_marowak_caught_with_hyperball.jpeg)
+
+![ガラガラ図鑑](../images/027_mt_ember/027_02_marowak_pokedex.jpeg)
+
 ### 1の島へ — 方向音痴の司令塔、今日も健在
 
 - クチバシティの港からシーギャロップで1の島へ到着。Claude は「南のほてりのみちへ向かおう」と指示したが、takanamito から「**北でした。北上中**」とあっさり訂正された。前回のレポートでもグレン島からの帰り道で方向音痴を発揮した Claude、今回もブレない。北と南を間違える司令塔に takanamito は慣れた様子だった
+
+![ほてりのみち看板](../images/027_mt_ember/027_03_hoteri_no_michi_sign.jpeg)
+
+![ゴールドスプレー発見](../images/027_mt_ember/027_04_goldspray_found.jpeg)
 
 ### キャンプボーイと東出
 
@@ -41,9 +49,27 @@
 
 - 続いて格闘兄弟カズとサチとのバトル。オコリザルとゴーリキーのかくとうコンビだが、こちらは問題なく勝利
 
+![格闘兄弟カズとサチ戦](../images/027_mt_ember/027_05_battle_kazu_sachi.jpeg)
+
 ### ともしびおんせん — ひでんマシン06入手
 
 - ほてりのみちの先に**ともしびおんせん**を発見。温泉地の風情がある場所に、岩をくり抜いたじいちゃんがいて、**ひでんマシン06（いわくだき）**をもらった。フィールドの岩を壊せるようになる便利なひでん技だ
+
+![ともしびおんせん入口](../images/027_mt_ember/027_06_tomoshibi_onsen_entrance.jpeg)
+
+![ともしびやま遠景](../images/027_mt_ember/027_07_mt_ember_entrance.jpeg)
+
+![ともしびおんせん内部](../images/027_mt_ember/027_08_tomoshibi_onsen_inside.jpeg)
+
+![湯治の説明NPC](../images/027_mt_ember/027_09_npc_explains_hot_spring_toji.jpeg)
+
+![つるつるおじさん](../images/027_mt_ember/027_10_old_man_bald_from_hot_spring.jpeg)
+
+![岩を掘り抜いて作った温泉](../images/027_mt_ember/027_11_hot_spring_carved_from_rock.jpeg)
+
+![いわくだきの説明](../images/027_mt_ember/027_12_rock_smash_explanation.jpeg)
+
+![温泉に浸かるNPC](../images/027_mt_ember/027_13_soaking_in_hot_spring.jpeg)
 
 ### 秘伝要員問題 — じんすけの限界
 
@@ -62,12 +88,37 @@
 ### ともしびやま突入
 
 - ともしびおんせんからともしびやまへ。左ルートから山中に突入した
+
+![ゲンガー vs スターミー](../images/027_mt_ember/027_14_gengar_vs_starmie.jpeg)
+
+![ポケモンレンジャー ショウタ戦](../images/027_mt_ember/027_16_ranger_shouta_battle.jpeg)
+
 - **だいばくはつ**を教えてくれるおじさんを発見。一見カビゴンに良さそうだが、ねむる＋ねごと戦法で**ねごとからだいばくはつが暴発して自滅するリスク**があるため即見送り。四天王は5連戦で1匹も無駄にできない
+
+![だいばくはつ教え](../images/027_mt_ember/027_15_learn_explosion_prompt.jpeg)
+
 - 道中でカビゴンが**ほしがる**を覚えようとしたが、威力40でおんがえし（威力102）の完全下位互換。迷わずスキップ
+
+![カビゴンほしがるスキップ](../images/027_mt_ember/027_17_kabigon_hoshigaru_forget_confirm.jpeg)
+
+![ともしびやま内部へ](../images/027_mt_ember/027_18_mt_ember_entrance.jpeg)
+
+![ともしびやま探索中](../images/027_mt_ember/027_19_mt_ember_inside_exploring.jpeg)
+
+![ハイパーボール発見](../images/027_mt_ember/027_20_mt_ember_found_hyperball.jpeg)
 
 ### ファイヤー発見
 
 - 山中を進むと、伝説のポケモン**ファイヤー**らしきシンボルエンカウントを発見。ほのお/ひこうタイプの伝説の三鳥の1匹だ
+
+![ともしびやま山頂付近](../images/027_mt_ember/027_21_mt_ember_summit_area.jpeg)
+
+![ともしびやま山頂付近2](../images/027_mt_ember/027_22_mt_ember_summit_area_2.jpeg)
+
+![ファイヤー発見](../images/027_mt_ember/027_23_moltres_encounter.jpeg)
+
+![ファイヤー発見2](../images/027_mt_ember/027_24_moltres_encounter_2.jpeg)
+
 - Claude は捕獲プランを立案。まずセーブしてから、ニドキングの**かわらわり**（かくとう→ひこう＝いまひとつ）で安全にHP削り、黄色〜赤になったらハイパーボールを投げ続ける作戦
 - 伝説ポケモンは捕獲率が極めて低いため、長期戦を覚悟。戦闘はまだ開始していない
 
